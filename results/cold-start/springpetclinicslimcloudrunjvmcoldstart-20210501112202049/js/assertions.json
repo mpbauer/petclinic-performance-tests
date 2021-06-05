@@ -1,0 +1,10 @@
+{
+  "simulation": "com.mpbauer.serverless.samples.cloudrun.SpringPetclinicSlimCloudRunJVMColdStart",
+  "simulationId": "springpetclinicslimcloudrunjvmcoldstart",
+  "start": 1619868122049,
+  "description": "",
+  "scenarios": ["Google Cloud Run - Spring Petclinic Slim JVM - Cold Start Testing"],
+  "assertions": [
+
+  ]
+}

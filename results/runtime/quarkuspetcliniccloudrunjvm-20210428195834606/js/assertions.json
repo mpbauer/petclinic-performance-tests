@@ -1,0 +1,10 @@
+{
+  "simulation": "com.mpbauer.serverless.samples.cloudrun.QuarkusPetclinicCloudRunJVM",
+  "simulationId": "quarkuspetcliniccloudrunjvm",
+  "start": 1619639914606,
+  "description": "",
+  "scenarios": ["Google Cloud Run - Quarkus Petclinic JVM"],
+  "assertions": [
+
+  ]
+}

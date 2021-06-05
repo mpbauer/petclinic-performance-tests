@@ -1,0 +1,10 @@
+{
+  "simulation": "com.mpbauer.serverless.samples.awslambda.QuarkusPetclinicAWSLambdaJVM",
+  "simulationId": "quarkuspetclinicawslambdajvm",
+  "start": 1619640229644,
+  "description": "",
+  "scenarios": ["AWS Lambda - Quarkus Petclinic JVM"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": 105,
+  "firstName": "Max",
+  "lastName": "Mustermann",
+  "address": "Langestrasse 9",
+  "city": "Zürich",
+  "telephone": "0797777777",
+  "pets": []
+}
